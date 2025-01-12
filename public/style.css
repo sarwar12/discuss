@@ -1,0 +1,40 @@
+.heading{
+    text-align: center;
+}
+.margin-bottom-15{
+    margin-bottom: 15px;
+}
+.question-list {
+	border: 1px solid gray;
+	margin: 10px 0;
+	padding: 10px 10px;
+}
+.question-list h4{
+    margin: 0;
+    padding: 0;
+}
+.question-list a{
+    text-decoration: none;
+    font-size: 18px;
+    color: blue;
+}
+.question-title {
+	font-size: 25px;
+	font-weight: 600;
+	color: blue;
+}
+.para-style{
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+/* My Style */
+.copyright p{
+    margin-top: 100px;
+}
+
+/* Delete Style */
+.my-question{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,5 @@
+1) Create Database
+	Databse Name: discuss
+2) import this file
+	discuss.sql --import this sql file 
+now ready this project
