@@ -2,4 +2,4 @@
 	Databse Name: discuss
 # import this file
 	discuss.sql --import this sql file 
-now ready this project
+## now ready this project
